@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="add_btn_padding_left">40dp</dimen>
+    <dimen name="div_btn_padding_right">40dp</dimen>
+    <dimen name="btn_padding_left_right">15dp</dimen>
+    <dimen name="textView_padding_left_top">30dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="textView_height">100dp</dimen>
+    <dimen name="back_height">52dp</dimen>
+    <dimen name="back_width">60dp</dimen>
+    <dimen name="back_marginRight">25dp</dimen>
+</resources>
